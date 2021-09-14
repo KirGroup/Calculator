@@ -1,0 +1,3 @@
+class Learn {
+    print("fdfsdf")
+}
